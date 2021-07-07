@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
 **hoangnv170752/hoangnv170752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas:
 
 - 🔭 I’m currently working on ReactJS project
 - 🌱 I’m currently learning Azure Microsoft 
