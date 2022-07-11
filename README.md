@@ -44,9 +44,9 @@ Or gmail `hoang.nv.ral@gmail.com`
 <br>
 <div align=center>
   <a href="#" title="HoangAkashi">
-    <img width="315" align="center" src="[![hoangnv170752's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv170752)](https://github.com/anuraghazra/github-readme-stats)" />
+    <img width="315" align="center" src="[![hoangnv170752's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv170752)](https://github.com/hoangnv170752/github-readme-stats)" />
   </a>
   <a href="#" title="HoangAkashi">
-    <img align="right" width="434" src="[![hoangnv170752's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv170752)](https://github.com/anuraghazra/github-readme-stats)" />
+    <img align="right" width="434" src="[![hoangnv170752's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv170752)](https://github.com/hoangnv170752/github-readme-stats)" />
   </a>
 </div>
