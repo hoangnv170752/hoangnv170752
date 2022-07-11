@@ -31,7 +31,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" title="Ubuntu" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" /></span>
+&nbsp;
 <br>
 Hi, my name is Akashi　（あかし） . I am currently App - Cloud team leader at R&D Digital center - RALACO and also working on my Master degree in Mechatronics. 
 With the aim of being a Fullstack developer, I enjoy spending my time learning Front-end technology with projects on Web APP (reactjs, angular) and Mobile APP (flutter) , along with thriving in the field of AI, Machine Learning . I am also a starter self-taught backend developer (with Nodejs , Flask as my current frameworks)
