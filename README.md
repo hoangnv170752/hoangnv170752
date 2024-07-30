@@ -37,7 +37,7 @@
 &nbsp;
 <br>
 Hi, my name is Akashi　（あかし） . I am currently App - Cloud team leader at R&D Digital center - RALACO and also working on my Master degree in Mechatronics. 
-With the aim of being a Fullstack developer, I enjoy spending my time learning Front-end technology with projects on Web APP (reactjs, angular) and Mobile APP (flutter) , along with thriving in the field of AI, Machine Learning . I am also a starter self-taught backend developer (with Nodejs , Flask as my current frameworks)
+With the aim of being a Fullstack developer, I enjoy spending my time learning Front-end technology with projects on Web APP (reactjs, angular) and Mobile APP (flutter, react native) , along with thriving in the field of AI, Machine Learning . I am also a starter self-taught backend developer (with Nodejs , Flask & Spring Boot as my current frameworks)
 
 You can contact with me via Facebook `https://www.facebook.com/profile.php?id=100008450770058`
 
