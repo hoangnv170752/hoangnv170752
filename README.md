@@ -46,6 +46,7 @@ Or gmail `hoang.nv.ral@gmail.com`
 <h2 align="center">🏆 Hackathons contestant 🏆</h2>
 
 <b>Geekle AI 1st Hackathon: Winner - Team Fab</b>
+<br>
 <b>Boost Hack II Hackathon: Winner - Best AI Hacks - Team AI Timekeeper</b>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
