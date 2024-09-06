@@ -42,6 +42,12 @@ With the aim of being a Fullstack developer, I enjoy spending my time learning F
 You can contact with me via Facebook `https://www.facebook.com/profile.php?id=100008450770058`
 
 Or gmail `hoang.nv.ral@gmail.com`
+
+<h2 align="center">🏆 Hackathons contestant 🏆</h2>
+
+<b>Geekle AI 1st Hackathon: Winner - Team Fab</b>
+<b>Boost Hack II Hackathon: Winner - Best AI Hacks - Team AI Timekeeper</b>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
