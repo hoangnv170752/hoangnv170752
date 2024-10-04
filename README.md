@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![An image of @hoangnv170752's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoangnv170752)](https://holopin.io/@hoangnv170752)
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
