@@ -49,7 +49,10 @@ Or gmail `hoang.nv.ral@gmail.com`
 <br>
 <b>Geekle AI 1st Hackathon: Winner - Team Fab</b> <a href="https://certificate.givemycertificate.com/c/3b565c97-7fd4-49c0-a6bb-da5bc4ef93a9" target="_blank">Certificate</a>
 <br>
-<b>Boost Hack II Hackathon: Winner - Best AI Hacks - Team AI Timekeeper</b>
+<b>Boost Hack II Hackathon: Winner - Best AI Hacks - Team AI Timekeeper</b> 
+<br>
+<b>Lablab WatsonX Hackathon: Finalists - Team WatmyTax</b> <a href="https://lablab.ai/u/@hoangakashi896/cm1g6s1k5001mu2daij6e9v2s
+" target="_blank">Certificate</a>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
