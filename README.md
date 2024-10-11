@@ -53,6 +53,8 @@ Or gmail `hoang.nv.ral@gmail.com`
 <br>
 <b>Lablab WatsonX Hackathon: Finalists - Team WatmyTax</b> <a href="https://lablab.ai/u/@hoangakashi896/cm1g6s1k5001mu2daij6e9v2s
 " target="_blank">Certificate</a>
+<br>
+<b>FuturistFest 2024 Hackathon - Team Cosmic Harmony The Sound of Space</b> <a href="https://certificate.givemycertificate.com/c/de408a20-1b0b-4373-8eb0-e9fade66707f" target="_blank">Certificate</a>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
