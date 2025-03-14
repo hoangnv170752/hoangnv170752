@@ -55,13 +55,13 @@ Or gmail `hoang.nv.ral@gmail.com`
 " target="_blank">Certificate</a>
 <br>
 <b>FuturistFest 2024 Hackathon - Team Cosmic Harmony The Sound of Space</b> <a href="https://certificate.givemycertificate.com/c/de408a20-1b0b-4373-8eb0-e9fade66707f" target="_blank">Certificate</a>
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <h3>2025</h3>
 <br>
-<b>Sáng tạo AI Vietnam</b> <a href="[https://certificate.givemycertificate.com/c/3b565c97-7fd4-49c0-a6bb-da5bc4ef93a9](https://devpost.com/software/safeeye-shielding-innocence)" target="_blank">Certificate</a>
+<b>Sáng tạo AI Vietnam</b> <a href="https://certificate.givemycertificate.com/c/3b565c97-7fd4-49c0-a6bb-da5bc4ef93a9](https://devpost.com/software/safeeye-shielding-innocence" target="_blank">Certificate</a>
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="HoangAkashi">
