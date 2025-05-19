@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![An image of @hoangnv170752's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoangnv170752)](https://holopin.io/@hoangnv170752)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangnv170752&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtaha01" /> </p>
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
