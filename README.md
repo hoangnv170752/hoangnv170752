@@ -60,7 +60,9 @@ Or gmail `hoang.nv.ral@gmail.com`
 <br>
 <h3>2025</h3>
 <br>
-<b>Sáng tạo AI Vietnam</b> <a href="https://certificate.givemycertificate.com/c/3b565c97-7fd4-49c0-a6bb-da5bc4ef93a9](https://devpost.com/software/safeeye-shielding-innocence" target="_blank">Certificate</a>
+<b>Sáng tạo AI Vietnam</b> <a href="https://devpost.com/software/safeeye-shielding-innocence" target="_blank">Link</a>
+<br>
+<b>AmpliCode Hackathon 2025 - Track winner: Open Innovation</b> <a href="https://devpost.com/software/catchup-facial-recognition-attendance-system" target="_blank">Link</a>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
