@@ -46,6 +46,8 @@ You can contact with me via Facebook `https://www.facebook.com/profile.php?id=10
 
 Or gmail `hoang.nv.ral@gmail.com`
 
+Find me here: https://hoangnv.me/
+
 <h2 align="center">🏆 Hackathons contestant 🏆</h2>
 <h3>2024</h3>
 <br>
