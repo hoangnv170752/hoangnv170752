@@ -39,13 +39,48 @@
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" /></span>
 &nbsp;
 <br>
-Hi, my name is Akashi　（あかし） . I am currently App - Cloud team leader at R&D Digital center - RALACO and also working on my Master degree in Mechatronics. 
-With the aim of being a Fullstack developer, I enjoy spending my time learning Front-end technology with projects on Web APP (reactjs, angular) and Mobile APP (flutter, react native) , along with thriving in the field of AI, Machine Learning . I am also a starter self-taught backend developer (with Nodejs , Flask & Spring Boot as my current frameworks)
+# 👋 Hi, I'm Hoang Nguyen  
 
-You can contact with me via Facebook `https://www.facebook.com/profile.php?id=100008450770058`
+**Software Engineer** from Vietnam, passionate about building **IoT**, **AI**, and **Automation** solutions that create real impact.  
+I work well with people across the globe 🌏, adapt quickly to new environments, and bring a **big-picture mindset** while staying approachable and collaborative.  
 
-Or gmail `hoang.nv.ral@gmail.com`
+---
 
+## 💻 Tech Stack  
+**Frontend**  
+- JavaScript / TypeScript – ReactJS, React Native, Flutter  
+
+**Backend**  
+- Java (Spring Boot), Node.js, Python  
+
+**Database**  
+- MariaDB, MongoDB, PostgreSQL, Redis (caching & key-value store)  
+
+**DevOps & Cloud**  
+- GitLab, Bitbucket, Docker Swarm  
+- AWS Certified ☁️ – Mentored a group of French students in a 1.5-month Cloud Engineer program  
+
+---
+
+## 🏆 Achievements & Hackathons  
+I’m passionate about hackathons and thrive in competitive, problem-solving environments.  
+- **4 official hackathon wins** (possibly 5 with the latest one!)  
+- 🥇 Geekle AI 1st Hackathon – Winner (Team Fab)  
+- 🥇 Boost Hack II Hackathon – Winner, Best AI Hacks (Team AI Timekeeper)  
+
+🔗 [My Devpost Profile](https://devpost.com/hoangnv170752)  
+
+---
+
+## 🌐 More About Me  
+- **Languages**: English 🏴, Japanese 🇯🇵, Vietnamese 🇻🇳  
+- **Timezone**: GMT+7  
+- **Open to Roles**:  
+  - Frontend Developer (Mobile) 📱  
+  - Backend Developer  
+  - Cloud / DevOps Engineer ☁️  
+
+📎 **LinkedIn**: [Hoàng Nguyễn Văn](https://www.linkedin.com/in/hoàng-nguyễn-văn-0a6771225)  
 Find me here: https://hoangnv.me/
 
 <h2 align="center">🏆 Hackathons contestant 🏆</h2>
