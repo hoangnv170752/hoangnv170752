@@ -14,10 +14,16 @@ I’m **Hoang Nguyen**, a **Software Engineer** from Vietnam, passionate about b
 
 🌏 I work well with people worldwide, adapt quickly to new environments, and bring a **big-picture mindset** while staying approachable and collaborative.  
 
-💡 **Open to roles**:  
+📚 **Degrees**:
+- Bachelor of Mechatronics - 2022
+- Master of Mechatronics - 2025
+- Bachelor of Information Technology - 2025
+
+💡 **Enjoy being in many roles**:  
 - Frontend Developer (Mobile) 📱  
 - Backend Developer  
 - Cloud / DevOps Engineer ☁️  
+- Team leader & mentor
 
 📎 **LinkedIn**: [Hoàng Nguyễn Văn](https://www.linkedin.com/in/hoàng-nguyễn-văn-0a6771225)  
 🌐 **Portfolio**: [hoangnv.me](https://hoangnv.me/)  
