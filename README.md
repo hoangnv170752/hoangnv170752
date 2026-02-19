@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Hoang Nguyen**, a **Software Engineer** from Vietnam, passionate about building **IoT**, **AI**, and **Automation** solutions that create real impact.  
+I’m **Hoang Nguyen**, a **Software Engineer** and **Open-source contributor**from Vietnam, passionate about building **IoT**, **AI**, and **Automation** solutions that create real impact.  
 
 🌏 I work well with people worldwide, adapt quickly to new environments, and bring a **big-picture mindset** while staying approachable and collaborative.  
 
