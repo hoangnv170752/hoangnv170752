@@ -94,7 +94,21 @@ I’m passionate about hackathons and thrive in competitive, problem-solving env
 - 🤖 **Sáng tạo AI Vietnam** – [Project Link](https://devpost.com/software/safeeye-shielding-innocence)  
 - 🏆 **AmpliCode Hackathon 2025** – Track Winner: Open Innovation [Project Link](https://devpost.com/software/catchup-facial-recognition-attendance-system)  
 
-🔗 [View all projects on Devpost](https://devpost.com/hoangnv170752)  
+🔗 [View all projects on Devpost](https://devpost.com/hoangnv170752)
+
+---
+
+## 📄 Publications
+
+### 2024
+- 📝 **Multi-access Edge Computing Architecture and Smart Agriculture Application in Ubiquitous Power Internet of Things**
+  *International Journal of Mobile Network Communications & Telematics (IJMNCT), Vol.13, No.4*
+  [View Publication](https://airccj.org/csecfp/library/jvol.php?last=IJMNCT&volname=13&volno=4)
+
+### 2026
+- 📝 **Real-time abnormal behavior detection in indoor IoT environments using multistage YOLO, DeepSORT, and SlowFast network integration**
+  *Proc. SPIE 14062, International Conference on Electronic Information Engineering and Artificial Intelligence (EIEAI 2025), 140620E (3 February 2026)*
+  [View Publication](https://doi.org/10.1117/12.3100763)
 
 ---
 
